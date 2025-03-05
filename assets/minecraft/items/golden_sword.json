@@ -13,6 +13,13 @@
           "type": "model",
           "model": "item/flaming_sword"
         }
+      },
+      {
+        "when": "holy_blade",
+        "model": {
+          "type": "model",
+          "model": "item/holy_sword"
+        }
       }
     ]
   }
